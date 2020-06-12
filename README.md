@@ -1,2 +1,5 @@
 # helloworld-
-my first github repository
+ Hello everyone
+ 
+ i like javascript
+ 
